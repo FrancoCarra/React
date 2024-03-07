@@ -1,3 +1,5 @@
+import { useState } from "react"
+
 export const TURNS = {
     X: 'x',
     O: 'o'
